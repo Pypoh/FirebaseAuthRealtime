@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "223114121586",
+    "firebase_url": "https://ccappauth.firebaseio.com",
+    "project_id": "ccappauth",
+    "storage_bucket": "ccappauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223114121586:android:a97e9add154b5f8e764deb",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthrealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223114121586-lb31m3lehgivgjsqdlpqg7lv7uou3486.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBex1gHg7FqQ3DBvysOjCjbCT293C6qNPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223114121586-lb31m3lehgivgjsqdlpqg7lv7uou3486.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
